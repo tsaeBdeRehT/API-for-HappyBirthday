@@ -2,7 +2,7 @@
   "name": "api-for-hbg",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "node": "app.js"
   },

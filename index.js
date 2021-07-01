@@ -5,7 +5,7 @@ const fs = require("fs");
 const app = express();
 
 
-const port = 8000;
+const port = process.env.PORT;
 
 app.use(bodyParser.json());
 app.use(
